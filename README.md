@@ -1,5 +1,5 @@
 # econometrics-i
-Sharing code developed during my first-year classes in Econometrics I, during my PhD in Economics at Insper.
+Sharing code developed in my first-year classes in Econometrics I, as part of my PhD in Economics at Insper.
 
 All code here was obtained and/or adapted from other public pages on the web. My goal is to reproduce the main concepts of Econometrics I (mostly OLS regression) and its applications in a comprehensive way. I'm hands-on person, so feel free to colaborate if you're like that too!
 
